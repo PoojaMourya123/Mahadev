@@ -1,9 +1,17 @@
+<<<<<<< HEAD
 .color {
     background-color: blue;
     color: azure;
 }
 
 body {
+=======
+.color{
+    background-color: blue;
+    color: azure;
+}
+body{
+>>>>>>> 1abf4ad84740c152f55dc3008c9c78825382da0e
     background-color: burlywood;
     color: black;
 }
